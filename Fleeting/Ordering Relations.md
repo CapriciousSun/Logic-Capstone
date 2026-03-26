@@ -17,8 +17,9 @@ A meet, or the *greatest lower bound*, is given by the greatest element in $P$ t
 It should be said that $p \land p = p \lor p = p$ for all $p$ in $P$ and $p \unlhd q \leftrightarrow p\land q = p \leftrightarrow p \lor q = q$. 
 
 ### ++ Relations ++
-Partial ordered  ![Numerical Poset|center|700](../Images/Example_Poset.png)
-
+Partial ordered sets could be drawn out as a diagram, where arrows indicate the relations. The following diagram is of poset $A = \{ 2, 3, 4, 7, 8, 12, 24, 35 \}$ where the where $R$ is relation $R = \{ (x, y) \in A \times A : x / y \}$
+![Numerical Poset|center|700](../Images/Example_Poset.png)
+It can be observed that the direction of the edges indicates the relation from $x$ to $y$. A poset is reflexive, which is shown by the edges pointing in onto a vertex. 
 
 ___
 # References
