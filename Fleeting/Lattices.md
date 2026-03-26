@@ -13,7 +13,7 @@ A lattice is complete if every subset $L$ has [[Ordering Relations#Meet and Join
 An ortholattice is a lattice where it is possible to to pick out a complement $p'$ for every element $p$. The element and its complement must fulfill the conditions
 - $p \unlhd q \to q' \unlhd p'$
 - $p'' = p$
-A mapping from 
+Formally, it is a structure such that $\mathcal{B} = (B, \sqsubseteq, ', 1, 0)$
 
 ___
 # References

@@ -8,7 +8,7 @@ Quantum logic is not based upon the Hilbert space $\mathcal{H}$. Rather, it is a
 The states of some particle in a Hilbert space is represented as *propositions* in quantum logic. Manipulation of these propositions is the central dogma of quantum logic. 
 
 ### ++ Non-Distributivity ++
-Classically, logic is distributive, where for some $p$, $q$, and $r$, that are propositions, $p \land (q \lor r) \Vdash (p \land q) \lor (p \land r)$. Quantum mechanically, this would not be valid. Given that the following states
+Classically, logic is distributive, where for some $p$, $q$, and $r$, that are propositions, $p \land (q \lor r) \Vdash (p \land q) \lor (p \land r)$. Quantum mechanically, this would not be valid. Given that the following states for some [[Particles|particle]]
 - $p = \text{the particle has momentum in the interval } [0, \frac{1}{6}]$
 - $q = \text{the particle is in the interval } [-1, 1]$
 - $r = \text{the particle is in the interval } [1, 3]$
