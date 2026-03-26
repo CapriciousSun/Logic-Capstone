@@ -17,6 +17,8 @@ A meet, or the *greatest lower bound*, is given by the greatest element in $P$ t
 It should be said that $p \land p = p \lor p = p$ for all $p$ in $P$ and $p \unlhd q \leftrightarrow p\land q = p \leftrightarrow p \lor q = q$. 
 
 ### ++ Relations ++
+Partial ordered  ![Numerical Poset|center|700](../Images/Example_Poset.png)
+
 
 ___
 # References
