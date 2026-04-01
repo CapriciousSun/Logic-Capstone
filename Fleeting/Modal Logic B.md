@@ -11,5 +11,10 @@ Modal logic $\mathbf{K}$ has three basic axioms
 Modal logic $\mathbf{B}$ just adds an extra axiom
 - $A \to \Box \Diamond A$
 
+## + Quantum Modal Logic +
+
 ___
 # References
+[[Chiara - Quantum Logic and Physical Modalities]]
+[[Chiara, Guintini - Quantum Logics]]
+[[Tokuo - Quantum Modal Logic]]
