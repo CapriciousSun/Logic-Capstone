@@ -10,9 +10,6 @@ Modal logic $\mathbf{K}$ has three basic axioms
 - The reflexivity axiom, $\Box A \to A$
 Modal logic $\mathbf{B}$ just adds an extra axiom
 - $A \to \Box \Diamond A$
-
-## + Quantum Modal Logic +
-
 ___
 # References
 [[Chiara - Quantum Logic and Physical Modalities]]
